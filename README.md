@@ -10,7 +10,7 @@ Dieses GitHub-Repository enthält eine Sammlung von Codebeispielen für die Prog
 
 - **LED-Blink:** Ein einfaches Beispiel, das zeigt, wie man eine LED auf dem CH32V003-Mikrocontroller blinken lässt.
 
-- **AnalogRad:** Beispiel zur Nutzung der analogRead Funktion des CH32V003 für die Erfassung von Daten aus einem Potentiometer.
+- **Analog Read:** Beispiel zur Nutzung der analogRead Funktion des CH32V003 für die Erfassung von Daten aus einem Potentiometer.
 
 - **UART:** Ein einfaches UART-Beispiel, das die serielle Kommunikation zwischen dem CH32V003 und einem Arduino Uno demonstriert.
 
